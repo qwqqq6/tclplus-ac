@@ -1,0 +1,13 @@
+{
+  "domain": "tclplus_ac",
+  "name": "TCL+ AC",
+  "after_dependencies": [],
+  "codeowners": ["@qwqqq6"],
+  "config_flow": true,
+  "documentation": "https://github.com/qwqqq6/tclplus-ac",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/qwqqq6/tclplus-ac/issues",
+  "loggers": ["custom_components.tclplus_ac"],
+  "requirements": [],
+  "version": "0.1.0"
+}

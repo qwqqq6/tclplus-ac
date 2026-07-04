@@ -1,0 +1,21 @@
+# Home Assistant private state
+.storage/
+backups/
+deps/
+tts/
+www/community/
+
+# Secrets and logs
+secrets.yaml
+*.log
+*.log.*
+
+# Local reverse-engineering / development data
+.secrets/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.tar
+*.tar.gz
+*.zip

@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "TCL+ AC",
+        "description": "使用 TCL+ 国内 App 账号登录。",
+        "data": {
+          "username": "账号/手机号",
+          "password": "密码"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "无法连接 TCL+ 服务",
+      "invalid_auth": "账号或密码无效",
+      "unknown": "未知错误"
+    },
+    "abort": {
+      "already_configured": "该账号已经配置"
+    }
+  }
+}
